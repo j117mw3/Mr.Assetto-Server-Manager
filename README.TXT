@@ -4,17 +4,17 @@ GodServerManager is a versatile program, carefully built to meet your needs. How
 *Prerequisites*
 Java 1.8 or higher (mandatory)
 JDK19 (mandatory)
-The required Java and JDK can be found within the "java" folder of the project directory. If not already installed on your system, please install them.
+If not already installed on your system, please install them.
 
 *Installation*
 To install GodServerManager, follow these steps:
 
 Extract the downloaded GodServerManager program folder.
-Navigate to the "java" folder and install Java and JDK if they're not already installed on your system.
-
 Extract the lib.rar into the program root folder. should look like this C:\..\Desktop\GodsAssettoCorsaServerManager\lib
 
 *Running the Project*
+You should be able to start the program with the start.bat
+
 To run GodServerManager from the command line, follow these steps:
 
 Open your system's command line terminal.
