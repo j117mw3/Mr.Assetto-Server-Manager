@@ -12,7 +12,7 @@ To install GodServerManager, follow these steps:
 Extract the downloaded GodServerManager program folder.
 Navigate to the "java" folder and install Java and JDK if they're not already installed on your system.
 
-Extract the lib.rar into the program root folder. should look like this B:\..\Desktop\GodsAssettoCorsaServerManager\lib
+Extract the lib.rar into the program root folder. should look like this C:\..\Desktop\GodsAssettoCorsaServerManager\lib
 
 *Running the Project*
 To run GodServerManager from the command line, follow these steps:
