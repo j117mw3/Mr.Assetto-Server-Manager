@@ -33,6 +33,3 @@ Should you run into any issues during the installation or running of the program
 
 *Support and Contribution*
 Feel free to fork the project and submit a pull request for any features you think could improve the GodServerManager. All contributions are welcome and greatly appreciated.
-
-*License*
-This project is licensed under the terms of the MIT license. For more information, please refer to the LICENSE file in the project repository.
