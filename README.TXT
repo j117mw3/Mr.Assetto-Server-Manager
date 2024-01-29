@@ -40,7 +40,7 @@ Your feedback and contributions are welcome. If you encounter any issues or have
 
 ## License
 
-Mozilla Public License 2.0 
+GNU GENERAL PUBLIC LICENSE
 
 ## Contact
 
