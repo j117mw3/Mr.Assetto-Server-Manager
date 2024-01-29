@@ -1,35 +1,51 @@
-*GodServerManager*
-GodServerManager is a versatile program, carefully built to meet your needs. However, to ensure it runs efficiently, there are certain prerequisites to observe, and steps to follow.
+# Mr.Assetto's Assetto Corsa Server Manager
 
-*Prerequisites*
-Java 1.8 or higher (mandatory)
-JDK19 (mandatory)
-If not already installed on your system, please install them.
+Welcome to Mr.Assetto's Server Manager! This application is designed to streamline the management of your Assetto Corsa servers, offering a range of features from server setup to track and car management.
 
-*Installation*
-To install GodServerManager, follow these steps:
+## Background
 
-Extract the downloaded GodServerManager program folder.
-Extract the lib.rar into the program root folder. should look like this C:\..\Desktop\GodsAssettoCorsaServerManager\lib
+Developed in Java and built using Apache NetBeans 20, this project began on June 5th, 2023. As a learning endeavor, the focus has been primarily on functionality, ensuring a robust experience for users.
 
-*Running the Project*
-You should be able to start the program with the start.bat
+## Installation and Setup
 
-To run GodServerManager from the command line, follow these steps:
+### Requirements
 
-Open your system's command line terminal.
-Navigate to the project directory where the GodServerManager.jar file is located.
-Type the following command and hit enter:
+- Java JDK-19
+- Java Runtime Environment (JRE)
 
-java -jar "GodServerManager.jar"
+### Steps
 
-This command will start the GodServerManager program.
+1. **Java Installation**: Ensure Java and Java JDK-19 are installed on your system. The launcher will check for these installations and provide download links if absent.
+2. **Download**: Obtain the project zip file.
+3. **Extraction**: Create a new folder and transfer all files and folders from the zip into this folder.
+4. **Launching**: Execute 'MrAssettoManager Launcher.exe'. This batch script performs compatibility checks and launches the manager.
 
-*Future Improvements*
-In the future, I hope to make the program more packaged and refined to streamline the setup process and enhance usability.
+## Features Overview
 
-*Troubleshooting*
-Should you run into any issues during the installation or running of the program, please refer to our FAQ section or submit an issue on the project's GitHub page.
+### Server Management
 
-*Support and Contribution*
-Feel free to fork the project and submit a pull request for any features you think could improve the GodServerManager. All contributions are welcome and greatly appreciated.
+- **Creating and Loading Servers**: Easily set up new servers or load existing configurations.
+- **Auto-Installation Management**: Simplify the auto-install process for servers with content.json file management.
+- **Server Starting and Monitoring**: Validate and start Assetto Corsa servers, monitor their output, and manage server states.
+
+### Car and Track Management
+
+- **Car Editing**: Load car data, manage color/skins folders, and unpack data.acd files.
+- **Track and CSP Management**: Handle track lists, convert tracks to CSP, and manage CSP-related settings.
+- **AI Management**: Easily add and configure AI for tracks.
+
+## Contributing
+
+Your feedback and contributions are welcome. If you encounter any issues or have suggestions for improvements, please feel free to report them.
+
+## License
+
+Mozilla Public License 2.0 
+
+## Contact
+
+For support or inquiries, please reach out to Mr.Asseto on YouTube or j117mw3 on Discord.
+
+---
+
+Thank you for using Mr.Assetto's Server Manager!
